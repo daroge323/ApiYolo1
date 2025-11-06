@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+pillow
+python-multipart
+pandas
+numpy
+matplotlib
+yolov5
